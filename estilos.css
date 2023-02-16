@@ -1,0 +1,337 @@
+#Portada{
+    position: relative;
+    display: inline-block;
+}
+
+#Solucion{
+    position: absolute;
+    background-color: #97848a;
+    align-items: center;
+    top: 5%;
+    right: 100%;
+    left:80%;
+    bottom:50%;
+    width:20%;
+    height:30%;
+    
+
+}
+
+#solMis{
+    position: absolute;
+    align-items: center;
+   
+    top: 25%;
+    
+    left:75%;
+    bottom:20%;
+  
+}
+#solMisCora{
+    position: absolute;
+    align-items: center;
+   
+    top: 41%;
+    
+    left:28%;
+    bottom:20%;
+  
+}
+#solMisOjo{
+    position: absolute;
+    align-items: center;
+   
+    top: 18%;
+   
+    left:44%;
+    bottom:20%;
+  
+}
+
+#solMisBoton{
+    position: absolute;
+    align-items: center;
+   
+    top: 78%;
+   
+    left: 936px;;
+    bottom:20%;
+    
+}
+
+#aricascabel{
+    position: absolute;
+    align-items: center;
+   
+    top: 55%;
+   
+    left: 798px;;
+    bottom:20%;
+    width:4%;
+    height:7%;
+}
+#arizorrita{
+    position: absolute;
+    align-items: center;
+   
+    top:26%;
+   
+    left: 1355px;;
+    bottom:20%;
+    width:8%;
+    height:16%;
+
+}
+#ojoArhi{
+
+    position: absolute;
+    align-items: center;
+   
+    top:31%;
+   
+    left: 726px;
+    bottom:20%;
+
+}
+
+#Ari{
+    position: absolute;
+    background-color: #c63664;
+    align-items: center;
+    top: 100%;
+    right: 80%;
+    left:30%;
+    bottom:220%;
+    width:05%;
+    height:05%;
+
+}
+#Graves{
+    position: absolute;
+    background-color: #d12e18;
+    align-items: center;
+    top: 40%;
+    right: 80%;
+    left:20%;
+    bottom:220%;
+    width:05%;
+    height:05%;
+
+}
+#MissFortune{
+    position: absolute;
+    background-color: #c0d312;
+    align-items: center;
+    top: 80%;
+    right: 100%;
+    left:45%;
+    bottom:220%;
+    width:05%;
+    height:10%;
+}
+#Braum{
+    position: absolute;
+    background-color: #1854ad;
+    align-items: center;
+    top: 40%;
+    right: 20%;
+    left:70%;
+    bottom:220%;
+    width:05%;
+    height:05%;
+}
+#Jax{
+    position: absolute;
+    background-color: #5f0184;
+    align-items: center;
+    top: 100%;
+    right: 30%;
+    left:80%;
+    bottom:220%;
+    width:05%;
+    height:05%;
+
+}
+
+#exit{
+    position: absolute;
+    background-color: #2ec545;
+    align-items: center;
+    top: 5%;
+    right: 100%;
+    left:5%;
+    bottom:220%;
+    width:05%;
+    height:05%;
+
+}
+
+
+
+#porEncimaMiss{
+    position: absolute;
+    align-items: center;
+    top: 80%;
+    right: 100%;
+    left:10%;
+    bottom: 100px;;
+    width: 100%;
+    height: 100px;
+    color: rgb(179, 40, 40);
+
+
+}
+
+#porEncimaBraum{
+    position: absolute;
+    align-items: center;
+    top: 80%;
+    right: 100%;
+    left:10%;
+    bottom: 20;;
+    width: 100%;
+    height: 100px;
+    color: rgb(228, 221, 221);
+    
+
+
+}
+
+#porEncimaSol{
+    position: absolute;
+    align-items: center;
+    top: 80%;
+    right: 100%;
+    left:10%;
+    bottom: 20;;
+    width: 100%;
+    height: 100px;
+    color: rgb(228, 221, 221);
+    
+
+
+}
+#porEncimaArhi{
+    position: absolute;
+    align-items: center;
+    top: 60%;
+    right: 100%;
+    left:10%;
+    bottom: 100px;;
+    width: 100%;
+    height: 100px;
+    color: rgb(145, 31, 135);
+
+
+}
+
+.BotonMovil {
+    background-color: #b51fda; 
+    border: none;
+    color: #b51fda;;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.BotonWin{
+    position: absolute;
+    align-items: center;
+    top: 0%;
+    right: 100%;
+    left: 403px;;
+    bottom: 20;;
+    color: rgb(255, 255, 255);
+    
+
+
+}
+
+.envoltorio{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    position: absolute;
+    align-items: center;
+    top: 20%;
+    right: 100%;
+    left: 403px;;
+    bottom: 20;
+    color: rgb(169, 22, 169);
+}
+
+.area1{
+    
+    position: absolute;
+    top: 20%;
+    right: 100%;
+    left:10%;
+    bottom:220%;
+    color: rgb(255, 255, 255);
+    font-size: 400%;
+}
+
+.dadotocapelotas{
+    width:40%;
+    height:43%;
+    position: absolute;
+
+}
+
+.area2{
+    
+    position: absolute;
+    top: 20%;
+    right: 100%;
+    left:80%;
+    bottom:220%;
+    color: rgb(255, 255, 255);
+    font-size: 300%;
+    
+}
+
+#dadosBoton{
+    position: absolute;
+    background-color: #a612d3;
+    align-items: center;
+    top: 40%;
+    right: 100%;
+    left:47%;
+    bottom:220%;
+    width:5%;
+    height:3%;
+}
+
+
+
+#grupoBotones{
+    display:flex;
+    width: 40%;
+}
+
+#grupoBotones > button > img{
+    width: 100%;
+}
+
+#resultado{
+  
+    position: absolute;
+    top: 30%;
+
+}
+#resultado img{
+    width: 10%;
+}
+
+#marcador{
+    color: rgb(0, 0, 0);
+    font-size: 120%;
+    
+
+    
+}
